@@ -21,10 +21,10 @@ Copy `ThePlugin.vst3` and the `ThePlugin.instruments` folder to:
 
 Which format you install on Mac depends which DAW you use:
 
-- Logic and GarageBand only use AU
-- Cubase, Bitwig, Studio One and Reason only use VST3
-- Ableton Live, FL Studio and Reaper can use either, so pick one format
-- Pro Tools (AAX) is not supported
+- Logic and GarageBand **only** use AU
+- Cubase, Bitwig, Studio One and Reason **only** use VST3
+- Ableton Live, FL Studio and Reaper can use **either**, so pick one format
+- Pro Tools (AAX) is **not supported**
 
 ### Installing on Windows
 
