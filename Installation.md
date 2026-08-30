@@ -7,11 +7,15 @@ Meat Beats plugins are provided in the following formats:
 
 ### Installing on Mac
 
-**Mac AU** - Copy `ThePlugin.component` and the `ThePlugin.instruments` folder to:
+**Mac AU**
+
+Copy `ThePlugin.component` and the `ThePlugin.instruments` folder to:
 
 `Macintosh HD > Library > Audio > Plug-Ins > Components`
 
-**Mac VST3** - Copy `ThePlugin.vst3` and the `ThePlugin.instruments` folder to:
+**Mac VST3**
+
+Copy `ThePlugin.vst3` and the `ThePlugin.instruments` folder to:
 
 `Macintosh HD > Library > Audio > Plug-Ins > VST3`
 
@@ -24,7 +28,9 @@ Which format you install on Mac depends which DAW you use:
 
 ### Installing on Windows
 
-**Windows VST3** - Copy `ThePlugin.vst3` and the `ThePlugin.instruments` folder to:
+**Windows VST3**
+
+Copy `ThePlugin.vst3` and the `ThePlugin.instruments` folder to:
 
 `C:\Program Files\Common Files\VST3`
 
@@ -40,4 +46,4 @@ If you see "Cannot find any instruments" check that the `.instruments` folder is
 
 Last updated: 2026-07-12
 
-[meatbeats.com](https://meatbeats.com)
+© [meatbeats.com](https://meatbeats.com)
