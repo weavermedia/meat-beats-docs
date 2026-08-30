@@ -1,6 +1,6 @@
 # Meat Beats Product Licence Agreement
 
-Licence agreements are usually written to be skimmed past. I've kept this one short and written it in plain English, because I'd genuinely like you to read it. It's still a legally binding agreement between you and Meat Beats – here's what you're agreeing to.
+Licence agreements are usually written to be skimmed past. I've kept this one short and written it in plain English, because I'd genuinely like you to read it. It's still a legally binding agreement between you and Meat Beats. Here's what you're agreeing to.
 
 ## 1. The words used
 
@@ -14,15 +14,15 @@ Licence agreements are usually written to be skimmed past. I've kept this one sh
 
 ## 2. Your licence
 
-When you buy a Meat Beats Product, you're buying a licence to use it rather than ownership of it. Ownership and all intellectual property rights remain with Meat Beats. (That's how digital products generally work; I'm just saying it out loud.)
+When you buy a Meat Beats Product, you're buying a licence to use it rather than ownership of it. Ownership and all intellectual property rights remain with Meat Beats. (That's how digital products generally work. I'm just saying it out loud.)
 
-Your licence is non-exclusive and non-transferable, and it lets you install and use the Product on any computers or devices you own or control, where applicable. Studio machine, laptop, the old Mac in the corner – all fine, as long as they're yours.
+Your licence is non-exclusive and non-transferable, and it lets you install and use the Product on any computers or devices you own or control, where applicable. Studio machine, laptop, the old Mac in the corner. They're all fine, as long as they're yours.
 
 ## 3. What you make is yours
 
 Everything you create with the Product is 100% yours, royalty-free, forever.
 
-Release it, sell it, use it in music, film, games, broadcast, adverts – anything. You'll never owe Meat Beats a penny beyond what you paid for the licence, and you don't need to credit Meat Beats (but feel free to send whatever you make).
+Release it, sell it, use it in music, film, games, broadcast, adverts - anything. You'll never owe Meat Beats a penny beyond what you paid for the licence, and you don't need to credit Meat Beats (but feel free to send whatever you make).
 
 ## 4. The few things you can't do
 
@@ -42,18 +42,16 @@ I work hard to make the Product great, but it's provided "as is", without warran
 
 ## 6. Limitation of liability
 
-To the fullest extent permitted by law, Meat Beats is not liable for any direct, indirect, incidental or consequential damages arising from your use of – or inability to use – the Product.
+To the fullest extent permitted by law, Meat Beats is not liable for any direct, indirect, incidental or consequential damages arising from your use of, or inability to use, the Product.
 
 Please keep backups of your work. (You're doing that anyway, right?)
 
 ## 7. Termination
 
-This licence lasts until it's terminated. If you breach its terms, it terminates automatically, and you must stop using the Product and delete all copies in your possession or control. Stick to the rules above – they're not demanding – and this will never come up.
+This licence lasts until it's terminated. If you breach its terms, it terminates automatically, and you must stop using the Product and delete all copies in your possession or control. Stick to the rules above - they're not demanding - and this will never come up.
 
 ## 8. Governing law
 
 This Agreement is governed by the laws of England and Wales.
-
-**Thanks for supporting Meat Beats. Now go make something great!**
 
 © Meat Beats
